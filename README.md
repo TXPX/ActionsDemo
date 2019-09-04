@@ -1,2 +1,2 @@
-# GitHub-Actions-Beta-Test-
+# GitHub-Actions-Beta-Test
 just try it.
